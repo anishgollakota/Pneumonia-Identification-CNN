@@ -15,3 +15,7 @@ Utilized a Rectified Linear Unit (RELU) activation function. for each layer.
 Used the ADAM optimizer along with a BINARY_CROSSENTROPY loss function.
 
 Model saved in a .h5 format in the "pnemonia_trained.h5" for use.
+
+# Examples from the dataset
+
+
