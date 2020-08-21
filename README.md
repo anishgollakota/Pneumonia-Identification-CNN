@@ -22,4 +22,8 @@ Model saved in a .h5 format in the "pnemonia_trained.h5" for use.
 
 ![](IM-0001-0001.jpeg)
 
+### PNEUMONIA
+
+![](person1_virus_6.jpeg)
+
 
