@@ -28,6 +28,6 @@ Model saved in a .h5 format in the "pnemonia_trained.h5" for use.
 
 ## Results
 
-![]
+![](pneumonia_results.png)
 
 
